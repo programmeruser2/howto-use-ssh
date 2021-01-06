@@ -33,5 +33,5 @@ Note that if you want to run graphical applications you'll need to have an X ser
 
 # Other operating systems
 You can find how to install an SSH server on Windows [here](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse) and how to do it on MacOS [here](https://osxdaily.com/2011/09/30/remote-login-ssh-server-mac-os-x/). You can connect to SSH with the steps [here](https://www.howtogeek.com/311287/how-to-connect-to-an-ssh-server-from-windows-macos-or-linux/).
-If you have a chromebook, you can connect to ssh with the steps [here](https://www.howtogeek.com/202768/how-to-use-ssh-tunnelling-on-chrome-os/). You can't start an ssh server without developer mode.
+If you have a chromebook, you can connect to ssh with the steps [here](https://www.lifewire.com/how-to-use-chromebook-ssh-client-4690108/). You can't start an ssh server without developer mode.
 
